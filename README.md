@@ -3,6 +3,7 @@
 The College Event Management System is a web-based application designed to simplify the process of organizing, managing, and participating in college events. It allows students and administrators to efficiently handle event registrations, updates, and records.
 
 * Features
+  
 -User Registration & Login System
 - Create and Manage Events
 - View Upcoming Events

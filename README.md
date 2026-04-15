@@ -11,6 +11,7 @@ The College Event Management System is a web-based application designed to simpl
 - Search and Filter Events
 -  Tech Stack
   
+  
 *Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
